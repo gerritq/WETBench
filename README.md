@@ -1,7 +1,10 @@
 # WETBench: A Benchmark for Detecting Task-Specific Machine-Generated Text on Wikipedia
 
-This repository provides the code and dataset links for the paper  
-**_WETBench: A Benchmark for Detecting Task-Specific Machine-Generated Text on Wikipedia_**.
+This repository provides the code and dataset links for the paper  **_WETBench: A Benchmark for Detecting Task-Specific Machine-Generated Text on Wikipedia_**.
+
+**Note:** This repository is still under active development. 🚧🙂  
+
+---
 
 ## Abstract
 
@@ -16,6 +19,8 @@ For each task, we test three prompting strategies and evaluate detectors from di
 We find that, across settings, training-based detectors achieve an average accuracy of 78%, while zero-shot detectors average 58%, with considerable variation across tasks, generators, and languages.  
 These results suggest that detectors struggle to generalize to diverse text generation scenarios, and that reliable detection may not easily scale to editor-driven platforms.
 
+---
+
 ## Code
 
 The code is organized into the following directories:
@@ -25,6 +30,8 @@ The code is organized into the following directories:
 - `tst/` — for **Text Style Transfer** task
 
 Each directory contains scripts for generating machine-generated text, training detectors, and evaluating performance.
+
+---
 
 ## Data
 
