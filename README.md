@@ -23,21 +23,23 @@ These results suggest that detectors struggle to generalize to diverse text gene
 
 ## Code
 
-The code is organized into the following directories:
+The `code/` directory is organized into the following subdirectories:
 
-- `paras/` — for **Paragraph Writing** task
-- `sums/` — for **Summarization** task
-- `tst/` — for **Text Style Transfer** task
-
-Each directory contains scripts for generating machine-generated text, training detectors, and evaluating performance.
+- `/collection/` — for collecting article-level samples for **WikiPS**
+- `/detectors/` — for all detectors used for benchmarking
+- `/mgt/` — for producing MGT data
+- `/paragraphs/` — for extracting paragraphs from the article-level samples
+- `/scorers/` — for automatic evaluation metrics used to assess prompting strategies for our tasks
+- `/summaries/` — for generating summaries from the article-level samples
+- `/tst/` — for collecting and extending the WNC corpus ([Pryzant et al., 2020](https://arxiv.org/pdf/1911.09709)) to the **mWNC** and running style classifiers
 
 ---
 
 ## Data
 
-We provide all data (WikiPS and the MGTs) via Hugging Face:
+We provide all data (WikiPS, mWNC, and the MGTs) via Hugging Face:
 
-👉 [**WETBench Dataset (Anonymized)**](https://huggingface.co/datasets/cs928346/WETBench/blob/main/README.md)
+👉 [**WETBench Dataset (Anonymised)**](https://huggingface.co/datasets/cs928346/WETBench/blob/main/README.md)
 
 ---
 
