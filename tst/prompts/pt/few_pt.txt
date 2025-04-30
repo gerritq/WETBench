@@ -1,0 +1,16 @@
+Por favor, edite esta frase tendenciosa da Wikipédia para torná-la mais neutra, alinhando-se à política de ponto de vista neutro da Wikipédia:  
+
+Alcançar o que a comunidade da Wikipédia entende como neutralidade significa analisar cuidadosa e criticamente uma variedade de fontes confiáveis e, em seguida, tentar transmitir ao leitor as informações contidas nelas de forma justa, proporcional e, tanto quanto possível, sem viés editorial. A Wikipédia busca descrever disputas, mas não se envolver nelas. O objetivo é informar, não influenciar. Editores, embora naturalmente tenham seus próprios pontos de vista, devem se esforçar de boa-fé para fornecer informações completas e não promover um ponto de vista específico em detrimento de outro. O ponto de vista neutro não significa a exclusão de certas perspectivas, mas sim a inclusão de todos os pontos de vista verificáveis que tenham peso devido suficiente. Observe os seguintes princípios para ajudar a alcançar o nível de neutralidade apropriado para uma enciclopédia:  
+
+- Evite apresentar opiniões como fatos.  
+- Evite apresentar afirmações seriamente contestadas como fatos.  
+- Evite apresentar fatos como opiniões.  
+- Prefira uma linguagem imparcial.  
+- Não faça editorialização.  
+- Indique a relevância relativa de visões opostas.  
+
+**Faça o menor número de alterações possível e use no máximo {trgt_n_words} palavras para a frase neutralizada.**  
+
+Saída apenas com a frase neutralizada. Frase:
+
+"""{src}"""

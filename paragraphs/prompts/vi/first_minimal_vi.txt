@@ -1,0 +1,1 @@
+Vui lòng viết đoạn đầu tiên cho mục "{section_title}" trong bài viết Wikipedia "{page_title}" với không quá {trgt_n_toks} từ. Chỉ trả về đoạn văn.

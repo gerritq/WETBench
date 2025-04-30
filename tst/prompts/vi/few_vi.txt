@@ -1,0 +1,16 @@
+Vui lòng chỉnh sửa câu thiên vị của Wikipedia để làm cho nó trung lập hơn, phù hợp với chính sách quan điểm trung lập của Wikipedia:  
+
+Đạt được điều mà cộng đồng Wikipedia hiểu là tính trung lập có nghĩa là phân tích cẩn thận và phê phán nhiều nguồn đáng tin cậy, sau đó cố gắng truyền tải thông tin đến người đọc một cách công bằng, cân đối và không có thiên vị biên tập trong phạm vi có thể. Wikipedia nhằm mô tả các tranh chấp nhưng không tham gia vào chúng. Mục tiêu là cung cấp thông tin, không phải gây ảnh hưởng. Biên tập viên, mặc dù tự nhiên có quan điểm riêng, nên cố gắng một cách thiện chí để cung cấp thông tin đầy đủ và không thúc đẩy một quan điểm cụ thể hơn một quan điểm khác. Quan điểm trung lập không có nghĩa là loại trừ một số quan điểm, mà là bao gồm tất cả các quan điểm có thể kiểm chứng và có trọng số phù hợp. Hãy tuân theo các nguyên tắc sau để đạt được mức độ trung lập phù hợp cho một bách khoa toàn thư:  
+
+- Tránh trình bày ý kiến như là sự thật.  
+- Tránh trình bày các tuyên bố gây tranh cãi nghiêm trọng như là sự thật.  
+- Tránh trình bày sự thật như là ý kiến.  
+- Ưu tiên sử dụng ngôn ngữ khách quan.  
+- Không biên tập mang tính cá nhân.  
+- Chỉ rõ mức độ phổ biến tương đối của các quan điểm đối lập.  
+
+**Thực hiện ít thay đổi nhất có thể và sử dụng không quá {trgt_n_words} từ cho câu đã được trung lập hóa.**  
+
+Chỉ xuất câu đã được trung lập hóa. Câu:  
+
+"""{src}"""

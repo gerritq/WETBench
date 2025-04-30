@@ -1,0 +1,6 @@
+Vui lòng viết đoạn đầu tiên cho mục "{section_title}" trong bài viết Wikipedia "{page_title}".  
+
+Hãy đề cập đến các điểm chính sau trong câu trả lời của bạn:  
+{content_prompts}  
+
+Sử dụng không quá {trgt_n_toks} từ. Chỉ trả về đoạn văn.

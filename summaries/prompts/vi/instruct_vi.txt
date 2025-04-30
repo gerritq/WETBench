@@ -1,0 +1,7 @@
+Nhiệm vụ của bạn là tóm tắt một bài viết để tạo phần mở đầu cho Wikipedia.  
+- Trong Wikipedia, phần mở đầu là phần giới thiệu bài viết và tóm tắt những nội dung quan trọng nhất.  
+- Ngoài các thông tin cơ bản, các nội dung quan trọng không nên xuất hiện trong phần mở đầu nếu chúng không được đề cập trong phần còn lại của bài viết.  
+
+Hãy tạo phần mở đầu cho bài viết có tiêu đề "{page_title}" dựa trên nội dung bài viết ở trên, với không quá {n_toks_trgt} từ. Bài viết:  
+
+"""{src}"""

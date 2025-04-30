@@ -1,0 +1,12 @@
+Extraia fatos e detalhes essenciais de um parágrafo e gere um conjunto de perguntas que ajudem um editor a reconstruir o conteúdo do parágrafo com a maior precisão possível.
+
+Requisitos:  
+- Certifique-se de que todo o conteúdo factual importante (nomes, datas, locais, relações, eventos) esteja capturado nas perguntas.  
+- Evite elementos subjetivos ou estilísticos – foque apenas em detalhes objetivos.  
+- Garanta que cada pergunta seja independente, autônoma e mutuamente exclusiva, abordando apenas uma informação por vez.  
+- Sempre refira-se ao nome completo ou ao sujeito (por exemplo, não se refira ao "filme").  
+- Não mencione "o parágrafo" nem utilize expressões como "de acordo com o parágrafo".  
+
+Gere pelo menos {min_cp} perguntas em ordem cronológica e retorne-as como uma lista Python `["pergunta1", "pergunta2", ...]`, sem textos ou explicações adicionais. Parágrafo do artigo da Wikipédia "{page_title}", seção "{section_title}":
+
+"{trgt}"

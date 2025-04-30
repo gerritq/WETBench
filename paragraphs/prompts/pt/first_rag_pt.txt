@@ -1,0 +1,11 @@
+Use o seguinte contexto para garantir a precisão factual ao escrever:  
+{context}  
+
+---  
+
+Por favor, escreva o primeiro parágrafo da seção "{section_title}" no artigo da Wikipédia "{page_title}".  
+
+Aborde os seguintes pontos-chave em sua resposta:  
+{content_prompts}  
+
+Use o contexto acima para orientar sua resposta, além de qualquer conhecimento relevante que você tenha. Use no máximo {trgt_n_toks} palavras. Retorne apenas o parágrafo em {language}.

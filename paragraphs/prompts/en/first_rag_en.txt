@@ -1,0 +1,11 @@
+Use the following context to ensure factual accuracy when writing:
+{context}
+
+---
+
+Please write the first paragraph for the section "{section_title}" in the Wikipedia article "{page_title}".
+
+Address the following key points in your response:
+{content_prompts}
+
+Use the context above to inform your response, in addition to any relevant knowledge you have. Use no more than {trgt_n_toks} words. Only return the paragraph in {language}.

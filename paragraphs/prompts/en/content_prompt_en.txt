@@ -1,0 +1,12 @@
+Extract key facts and details from a paragraph and generate a set of questions that help an editor to reconstruct the paragraph's content as accurately as possible.
+
+Requirements:
+- Ensure all key factual content (names, dates, places, relationships, events) is captured in the questions.
+- Avoid subjective or stylistic elements—focus on objective details.
+- Ensure each question is self-contained, independent and mutually exclusive, pertaining to a single information only. 
+- Always refer to the full name or subject (e.g., do not refer to 'the film').
+- Do not refer to 'the paragraph' or include 'according to the paragraph'.
+
+Generate at least {min_cp} chronological questions that and return them as a Python list [question1, question2, ...] without extra text or explanations. Paragraph from the Wikipedia article "{page_title}" section "{section_title}":
+
+"{trgt}"

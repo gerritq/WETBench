@@ -1,0 +1,11 @@
+Sử dụng ngữ cảnh sau để đảm bảo tính chính xác về mặt thực tế khi viết:  
+{context}
+
+---  
+
+Vui lòng viết đoạn văn đầu tiên cho mục "{section_title}" trong bài viết Wikipedia "{page_title}".  
+
+Hãy đề cập đến các điểm chính sau trong câu trả lời của bạn:  
+{content_prompts}
+
+Sử dụng ngữ cảnh trên để tạo câu trả lời của bạn, cùng với bất kỳ kiến thức liên quan nào bạn có. Không dùng quá {trgt_n_toks} từ. Chỉ trả lời bằng đoạn văn bằng {language}.

@@ -1,0 +1,14 @@
+Please edit this biased Wikipedia paragraph to make it more neutral, aligning with Wikipedia's neutral point of view policy:
+
+Achieving what the Wikipedia community understands as neutrality means carefully and critically analyzing a variety of reliable sources and then attempting to convey to the reader the information contained in them fairly, proportionately, and as far as possible without editorial bias. Wikipedia aims to describe disputes, but not engage in them. The aim is to inform, not influence. Editors, while naturally having their own points of view, should strive in good faith to provide complete information and not to promote one particular point of view over another. The neutral point of view does not mean the exclusion of certain points of view; rather, it means including all verifiable points of view which have sufficient due weight. Observe the following principles to help achieve the level of neutrality that is appropriate for an encyclopedia:
+
+- Avoid stating opinions as facts.
+- Avoid stating seriously contested assertions as facts.
+- Avoid stating facts as opinions.
+- Prefer nonjudgmental language.
+- Do not editorialize.
+- Indicate the relative prominence of opposing views.
+
+**Make as few changes as possible and use no more than {trgt_n_words} words for the neutralised paragraph.** Output only the neutralized paragraph. Paragraph:
+
+"""{src}"""

@@ -1,0 +1,12 @@
+Trích xuất các sự kiện và chi tiết quan trọng từ một đoạn văn và tạo một tập hợp câu hỏi giúp biên tập viên tái tạo nội dung của đoạn văn một cách chính xác nhất có thể.  
+
+Yêu cầu:
+- Đảm bảo tất cả nội dung quan trọng (tên, ngày tháng, địa điểm, mối quan hệ, sự kiện) được phản ánh trong các câu hỏi.  
+- Tránh các yếu tố chủ quan hoặc phong cách—chỉ tập trung vào thông tin khách quan.  
+- Mỗi câu hỏi phải độc lập, rõ ràng, không trùng lặp và chỉ đề cập đến một thông tin duy nhất.  
+- Luôn sử dụng tên đầy đủ hoặc chủ đề cụ thể (ví dụ: không gọi chung là "bộ phim").  
+- Không đề cập đến "đoạn văn" hoặc sử dụng "theo đoạn văn".  
+
+Hãy tạo ít nhất {min_cp} câu hỏi theo trình tự thời gian và trả về chúng dưới dạng danh sách Python ["question1", "question2", ...] mà không có văn bản hoặc giải thích thêm. Đoạn văn từ bài viết Wikipedia "{page_title}", phần "{section_title}":
+
+"{trgt}"

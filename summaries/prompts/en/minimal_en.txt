@@ -1,0 +1,3 @@
+Your task is to summarize the below article with no more than {n_toks_trgt} words. Article:
+
+"""{src}"""

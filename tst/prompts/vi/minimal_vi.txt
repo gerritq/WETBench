@@ -1,0 +1,3 @@
+Vui lòng làm cho câu này trung lập hơn. Thực hiện ít thay đổi nhất có thể và sử dụng không quá {trgt_n_words} từ cho câu đã được trung lập hóa. Câu:
+
+"""{src}"""

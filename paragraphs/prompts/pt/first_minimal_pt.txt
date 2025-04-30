@@ -1,0 +1,1 @@
+Por favor, escreva o primeiro parágrafo para a seção "{section_title}" no artigo da Wikipédia "{page_title}" utilizando no máximo {trgt_n_toks} palavras. Retorne apenas o parágrafo.

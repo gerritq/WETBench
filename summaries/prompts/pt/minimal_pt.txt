@@ -1,0 +1,3 @@
+Sua tarefa é resumir o artigo abaixo com no máximo {n_toks_trgt} palavras. Artigo:  
+
+"""{src}"""

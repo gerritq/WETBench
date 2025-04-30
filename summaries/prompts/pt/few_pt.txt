@@ -1,0 +1,7 @@
+Sua tarefa é resumir um artigo para criar a seção introdutória de uma página da Wikipédia.  
+- Na Wikipédia, a seção introdutória é uma introdução ao artigo e um resumo de seus conteúdos mais importantes.  
+- Além dos fatos básicos, informações significativas não devem aparecer na introdução se não forem abordadas no restante do artigo.  
+
+Gere a introdução para o artigo intitulado "{page_title}" usando o corpo do artigo acima, com no máximo {n_toks_trgt} palavras. Artigo:  
+
+"""{src}"""

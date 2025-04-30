@@ -1,0 +1,7 @@
+Your task is to summarize an article to create a Wikipedia lead section. 
+- In Wikipedia, the lead section is an introduction to an article and a summary of its most important contents. 
+- Apart from basic facts, significant information should not appear in the lead if it is not covered in the remainder of the article.
+
+Generate the lead for the article titled "{page_title}" using the article's body above with no more than {n_toks_trgt} words. Article:
+
+"""{src}"""

@@ -1,0 +1,3 @@
+Nhiệm vụ của bạn là tóm tắt bài viết dưới đây với không quá {n_toks_trgt} từ. Bài viết:  
+
+"""{src}"""

@@ -1,0 +1,1 @@
+Please write the first paragraph for the section "{section_title}" in the Wikipedia article "{page_title}" using no more than {trgt_n_toks} words. Only return the paragraph.
